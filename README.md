@@ -87,9 +87,8 @@ This repository showcases my **Java programming skills** and my ability to build
 small-scale applications using Java frameworks and core concepts.
 
 ---
+## 👨‍💻 Contributors
+- [@ash-iiiiish](https://github.com/ash-iiiiish)
 
-## 👨‍💻 Author
-ash-iiiiish
----
 
 
